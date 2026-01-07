@@ -91,10 +91,11 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=amantebriwal4321&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=amantebriwal4321&theme=tokyonight&hide_border=true&cache_seconds=3600&v=1"
     alt="GitHub Streak"
   />
 </p>
+
 
 
 
