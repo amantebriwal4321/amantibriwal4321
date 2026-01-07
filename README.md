@@ -91,10 +91,10 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=amantebriwal4321&theme=tokyonight&hide_border=true&cache_seconds=3600&v=1"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantebriwal4321&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
+
 
 
 
