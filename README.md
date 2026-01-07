@@ -85,17 +85,16 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=amantebriwal4321&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amantebriwal4321&theme=tokyonight"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=amantebriwal4321&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=amantebriwal4321&theme=tokyonight&hide_border=true"
   />
 </p>
+
 
 
 ---
