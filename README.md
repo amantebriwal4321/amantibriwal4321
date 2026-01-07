@@ -89,18 +89,8 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amantebriwal4321&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
 
-
-
-
-
-
----
+--
 
 <p align="center">
   <i>"Learning fast. Building faster."</i>
